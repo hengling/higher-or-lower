@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Higher or Lower</string>
+
+    <!-- Activity Main-->
+    <string name="activity_main.title">I\'m thinking of a number between 1 and 20</string>
+    <string name="activity_main.subtitle">Can you guess it?</string>
+    <string name="activity_main.guess_input">Your guess</string>
+    <string name="activity_main.guess_button">GUESS</string>
+    <string name="activity_main_higher">Higher</string>
+    <string name="activity_main_lower">Lower</string>
+
+    <!-- Activity NumberGuessed -->
+    <string name="activity_number_guessed.congratulations">Congratulations, you\'ve got it right</string>
+    <string name="activity_number_guessed.play_again">PLAY AGAIN</string>
+    <string name="activity_main_invalid_input">Invalid input</string>
+</resources>

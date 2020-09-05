@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maior ou Menor</string>
+
+    <!-- Activity Main-->
+    <string name="activity_main.title">Estou pensando em um número entre 1 e 20</string>
+    <string name="activity_main.subtitle">Você consegue adivinhar?</string>
+    <string name="activity_main.guess_input">Sua sugestão</string>
+    <string name="activity_main.guess_button">ADIVINHAR</string>
+    <string name="activity_main_higher">Maior</string>
+    <string name="activity_main_lower">Menor</string>
+    <string name="activity_main_invalid_input">Número inválido</string>
+
+    <!-- Activity NumberGuessed -->
+    <string name="activity_number_guessed.congratulations">Parabéns, você acertou</string>
+    <string name="activity_number_guessed.play_again">JOGAR NOVAMENTE</string>
+</resources>
