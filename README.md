@@ -13,9 +13,15 @@ Clone this repo and run it on your device. Let the game begin!
 
 ## What it looks like
 
+The game just started. The player has to guess which number the app randomly chose.
+
 ![The game just started. The player has to guess which number the app randomly chose.](/images/screen1.png)
 
+The player chose the wrong number. The app advises the player about the next guess.
+
 ![The player chose the wrong number. The app advises the player about the next guess.](/images/screen2.png)
+
+The player figured out the mysterious number. Good job!
 
 ![The player figured out the mysterious number. Good job!](/images/screen3.png)
 
