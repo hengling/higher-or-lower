@@ -8,7 +8,6 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.textfield.TextInputLayout
 import kotlin.random.Random
 
-const val EMPTY_INPUT: String = ""
 const val RANGE_BEGIN: Int = 0
 const val RANGE_END: Int = 20
 
@@ -42,7 +41,7 @@ class MainActivity : AppCompatActivity() {
 
     fun guess(view: View) {
         val userInput: String = guessInputText.editText?.text.toString()
-        if (EMPTY_INPUT == userInput) {
+        if (userInput.isEmpty() || userInput.isBlank()) {
             showInvalidInputMessage(view)
             return
         }
